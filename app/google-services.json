@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "260629471935",
+    "project_id": "a8--team31",
+    "storage_bucket": "a8--team31.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:260629471935:android:9ae84e1544ed1e32139c0a",
+        "android_client_info": {
+          "package_name": "edu.northeastern.team31project"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "260629471935-56ur8bg2squk1d9fdh2q4e84qmj9pj8n.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAC718zxVc8XOs06qVX26jhd9cMbIv27WU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "260629471935-56ur8bg2squk1d9fdh2q4e84qmj9pj8n.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

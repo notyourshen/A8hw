@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Team31Project</string>
+    <string name="team31project">Team31Project</string>
+    <string name="weather">WEATHER</string>
+    <string name="get_local_weather">GET LOCAL WEATHER</string>
+    <string name="_0_00">0.00</string>
+    <string name="_0_01">0.00</string>
+    <string name="_0_02">0.00</string>
+    <string name="_0_03">0.00</string>
+    <string name="temperature">Temperature</string>
+    <string name="humidity">Humidity</string>
+    <string name="pressure">Pressure</string>
+    <string name="feels_like">Feels Like</string>
+    <string name="enter_city_name">Enter City Name</string>
+    <string name="body_temperature">Body Temperature</string>
+    <string name="team31">Team31</string>
+    <string name="members_zhangjin_pan_yixing_shen_haoran_zhang_xuanqi_he">Zhangjin Pan, Yixing Shen, Haoran Zhang, Xuanqi He</string>
+    <string name="new_user_sign_up">New User Sign Up</string>
+    <string name="enter_password_here">Enter Password here</string>
+    <string name="enter_email_here">Enter Email Here</string>
+    <string name="sign_in">Sign in</string>
+    <string name="enter_name_here">Enter Name Here</string>
+    <string name="enter_email_here1">Enter Email here</string>
+    <string name="enter_password_here1">Enter Password Here</string>
+    <string name="sign_up">Sign Up</string>
+    <string name="existed_user_sign_in">Existing User Sign In</string>
+</resources>
