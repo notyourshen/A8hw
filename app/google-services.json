@@ -1,33 +1,33 @@
 {
   "project_info": {
-    "project_number": "779550304805",
-    "project_id": "a8hw-clickit",
-    "storage_bucket": "a8hw-clickit.appspot.com"
+    "project_number": "971182588908",
+    "project_id": "a8-hw-cbb3d",
+    "storage_bucket": "a8-hw-cbb3d.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:779550304805:android:6838b5dfe913c45a8a6dcc",
+        "mobilesdk_app_id": "1:971182588908:android:370c591109fd32401376c9",
         "android_client_info": {
           "package_name": "edu.northeastern.team31project"
         }
       },
       "oauth_client": [
         {
-          "client_id": "779550304805-7e9f8a4is9da5pt2k68tujq2g8ks453l.apps.googleusercontent.com",
+          "client_id": "971182588908-eqnqovr5hrpl0e3v8telg1jb00qjad4m.apps.googleusercontent.com",
           "client_type": 3
         }
       ],
       "api_key": [
         {
-          "current_key": "AIzaSyC23nJR-jbBTUYDP-wmdK1XRRj5zYhWkKY"
+          "current_key": "AIzaSyBlTYicXar3z4Zk8_B2hyNlG2kmbwPalPw"
         }
       ],
       "services": {
         "appinvite_service": {
           "other_platform_oauth_client": [
             {
-              "client_id": "779550304805-7e9f8a4is9da5pt2k68tujq2g8ks453l.apps.googleusercontent.com",
+              "client_id": "971182588908-eqnqovr5hrpl0e3v8telg1jb00qjad4m.apps.googleusercontent.com",
               "client_type": 3
             }
           ]
